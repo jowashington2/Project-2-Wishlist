@@ -1,6 +1,6 @@
 # Android Project 2 - *Wishlist*
 
-Submitted by: **Ekechi Spencer**
+Submitted by: **Joshua Washington**
 
 **Wishliist** is a app that helps the user keep track of what they want to buy.
 
@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-https://github.com/user-attachments/assets/3890fe71-1951-4abb-8119-342c227dcf32
+
 
 
 GIF created with macOS screen recording (Shift + Command + 5)  
